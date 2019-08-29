@@ -1,9 +1,11 @@
 # Ejercicios Estructuras de Control
 
 Nombre:
+Javier Chávez
 --
 
 Github Username:
+JavierChavez-UTEC
 --
 
 Instrucciones:
